@@ -1,0 +1,13 @@
+[project]
+name = "lecture-5-vmc"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "flax>=0.11.2",
+    "jax>=0.4.35",
+    "matplotlib>=3.8.0",
+    "netket>=3.15.1",
+    "numpy>=1.24.0",
+    "optax>=0.2.4",
+    "tqdm>=4.67.1",
+]
